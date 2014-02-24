@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.primeraetapa.frasesamor"
+    version   = "1.0.2">
+
+<icon src="images/iconb.png" />
+
+<name>Frases de amor</name>
+
+<description>Frases de amor</description>
+
+<author href="https://codigoseo.com" email="noe@gmail.com">
+noe
+</author>
+
+<access origin="*" />
+
+<preference name="permissions" value="none" />
+
+<preference name="android-targetSdkVersion" value="13" />
+
+</widget>
+
+

@@ -21,6 +21,15 @@
 
 <body>
 
+	<audio id="player" src="audio/rubius-soyfeliz.mp3"></audio>
+
+	<div>
+	    <button onclick="document.getElementById('player').play();">Reproducir</button>
+	    <button onclick="document.getElementById('player').pause();">Pausa</button>
+	    <button onclick="document.getElementById('player').volume += 0.1;">Subir Volumen</button>
+	    <button onclick="document.getElementById('player').volume -= 0.1;">Bajar Volumen</button>
+	</div>
+
 	<img src="images/fondo.svg">
 
     <div id="text">Pulsa el Boton</div>

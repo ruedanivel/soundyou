@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.primeraetapa.frasesamor"
-    version   = "1.0.2">
+    id        = "com.sonidosyou"
+    version   = "1.0.0">
 
 <icon src="images/iconb.png" />
 
-<name>Frases de amor</name>
+<name>Sonidos Youtube</name>
 
-<description>Frases de amor</description>
+<description>Sonidos Youtube</description>
 
 <author href="https://codigoseo.com" email="noe@gmail.com">
 noe
